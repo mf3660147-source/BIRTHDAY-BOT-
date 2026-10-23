@@ -1,1 +1,15 @@
 
+{
+  "name": "birthday-bot",
+  "version": "1.0.0",
+  "description": "Discord Birthday Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "better-sqlite3": "^11.8.1",
+    "dotenv": "^16.4.7"
+  }
+}
